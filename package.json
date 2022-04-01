@@ -1,6 +1,6 @@
 {
-  "name": "@fubaars/color-utility", 
-  "version": "1.0.1",
+  "name": "@fubaars/color-utility",
+  "version": "1.0.2",
   "description": "Simply a small color utility library as test",
   "main": "color-utility.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MarcoSorci/colorUtility/issues"
   },
-  "homepage": "https://github.com/MarcoSorci/colorUtility#readme"
+  "homepage": "https://github.com/MarcoSorci/colorUtility#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.10",
+    "jsdoc-to-markdown": "^7.1.1"
+  }
 }
